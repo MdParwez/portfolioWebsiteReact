@@ -25,7 +25,7 @@ const About = () => {
             <div className="flex items-start">
               <div className="w-4 h-4 bg-gradient-to-t from-blue-500 to-cyan-500 rounded-full"></div>
               <div className="ml-4">
-                <h3 className="text-lg font-semibold">2024</h3>
+                <h3 className="text-lg font-semibold">2020-2024</h3>
                 <p>
                   Graduated from LPU (Lovely Professional University) In B.TECH COMPUTER SCIENCE AND ENGINEERING.
                 </p>
@@ -34,7 +34,7 @@ const About = () => {
             <div className="flex items-start">
               <div className="w-4 h-4 bg-gradient-to-t from-blue-500 to-cyan-500 rounded-full"></div>
               <div className="ml-4">
-                <h3 className="text-lg font-semibold">2024</h3>
+                <h3 className="text-lg font-semibold">2020-2024</h3>
                 <p>
                   Data Science(AI & ML) Pursued Interest Based Extra Specialization in Data Science field to not lag behind coz of Advancements in AI
                 </p>
@@ -45,7 +45,7 @@ const About = () => {
               <div className="ml-4">
                 <h3 className="text-lg font-semibold">2019</h3>
                 <p>
-                  Intermediate Science in (I.SC in Maths) Qualified in Jee Mains- 2020 And highest number scored in Math in Intermediate.
+                  Intermediate Science in (Intermediate Science in Maths) Qualified in Jee Mains-2020 And highest Marks scored in Maths in Intermediate.
                 </p>
               </div>
             </div>
