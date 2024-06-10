@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my personal portfolio website, built using React.js and Tailwind CSS. Explore my work, skills, and ways to get in touch.
+this is  my personal portfolio website, built using React.js and Tailwind CSS. Explore my work, skills, and ways to get in touch.
 
 ## Link
 [https://mdparwez-portfolio.vercel.app/](https://mdparwez-portfolio.vercel.app/)
