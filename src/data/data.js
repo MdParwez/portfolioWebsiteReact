@@ -4,6 +4,8 @@ import portfolio from '../assets/projects/portfolio.png'
 import project1 from  '../assets/projects/Project1.png'
 import mern from '../assets/projects/mern.png'
 import onlinepayment from '../assets/projects/onlinepayment.png'
+import task from  '../assets/projects/task.png'
+import invoice from '../assets/projects/invoice.png'
 export const data=[
    {    id:1,
         name:"Mern Messenger",
@@ -13,12 +15,25 @@ export const data=[
     },
     {
      id:2,
-     name:"Payment Fraud Prediction",
-     image:onlinepayment,
-     github:"https://github.com/MdParwez/onlinepaymentfraud",
-     live:"https://tejasjd08-final-online-payment-fraud-detection.streamlit.app/",
+     name:"Task Manager Application",
+     image:task,
+     github:"https://github.com/MdParwez/task-manager-app",
+     live:"https://github.com/MdParwez/task-manager-app",
     }
-,
+, {
+    id:3,
+    name:"Invoice Generator",
+    image:invoice,
+    github:"https://github.com/MdParwez/invoice-generator-pdf",
+    live:"https://github.com/MdParwez/invoice-generator-pdf",
+   },
+   {
+    id:3,
+    name:"Payment Fraud Prediction",
+    image:onlinepayment,
+    github:"https://github.com/MdParwez/onlinepaymentfraud",
+    live:"https://tejasjd08-final-online-payment-fraud-detection.streamlit.app/",
+   },
     {
         id:3,
         name:"Weather App ",
